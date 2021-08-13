@@ -1,0 +1,2 @@
+rootProject.name = "Giris_001"
+include ':app'
